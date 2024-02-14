@@ -2,7 +2,7 @@ Digital Clock Program
 Description
 This JavaScript code creates a simple digital clock that displays the current time in hours, minutes, seconds, and meridiem (AM or PM). The clock updates automatically every second.
 
-
+(https://github.com/AdrienFrigola/Digital_Clock.js.git)
 
 Usage
 To use the clock program, follow these steps:
